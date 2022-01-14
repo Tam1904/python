@@ -1,0 +1,7 @@
+print(2+6)
+print(2**3)
+print(2*4)
+print(int(16/2))
+print(10-2)
+x=int(input("nhập số yêu thích của bạn "))
+print("số yêu thích của ban" , x )
